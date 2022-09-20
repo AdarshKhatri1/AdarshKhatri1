@@ -20,14 +20,13 @@ Tech enthusiast who love to build apps that are interesting and useful and a pas
     <a href="https://www.linkedin.com/in/adarshkhatri250/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/adarshkhatri250/" />
     </a>
-    
-    <a href="https://adarsh-khatri-portfolio.netlify.app/">
-        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://adarsh-khatri-portfolio.netlify.app/" />
+    <a href="https://adarsh-khatri-portfolio.netlify.app">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://adarsh-khatri-portfolio.netlify.app" />
     </a>
     <a title="adkhatri250@gmail.com" href="https://drive.google.com/file/d/1XC8speyeOjHmBZPkagvcFzR0FsveaL2S/view?usp=sharing">
         <img align="center" src="https://img.shields.io/badge/Resume-D14836?style=for-the-badge&logo=resume&logoColor=white" alt="adkhatri250@gmail.com" />
     </a>
-    <a title="adkhatri250@.com" href="mailto:adkhatri250@gmail.com">
+    <a title="adkhatri250@gmail.com" href="mailto:adkhatri250@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="adkhatri250@gmail.com" />
     </a>
 </p>
