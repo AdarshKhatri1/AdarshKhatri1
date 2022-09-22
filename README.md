@@ -3,7 +3,7 @@
 Hi 👋 My name is Adarsh Khatri
 =============================
 
-<img align="right" alt="coding" width="400" src="https://avatars.githubusercontent.com/u/101393365?s=400&u=4713524a8490a813395d3e8ad54ffe51939524df&v=4"/>
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966>
 
 Tech enthusiast who love to build apps that are interesting and useful and a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems sparkles.
 <br>
