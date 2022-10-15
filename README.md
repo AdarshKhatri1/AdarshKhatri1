@@ -23,7 +23,7 @@ Tech enthusiast who love to build apps that are interesting and useful and a pas
     <a href="https://adarsh-khatri-portfolio.netlify.app">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://adarsh-khatri-portfolio.netlify.app" />
     </a>
-    <a title="adkhatri250@gmail.com" href="https://drive.google.com/file/d/1XC8speyeOjHmBZPkagvcFzR0FsveaL2S/view?usp=sharing">
+    <a title="adkhatri250@gmail.com" href="https://drive.google.com/file/d/1L9tfrukDqPgGSbiijRre9-keBoF6H9IO/view?usp=sharing">
         <img align="center" src="https://img.shields.io/badge/Resume-D14836?style=for-the-badge&logo=resume&logoColor=white" alt="adkhatri250@gmail.com" />
     </a>
     <a title="adkhatri250@gmail.com" href="mailto:adkhatri250@gmail.com">
