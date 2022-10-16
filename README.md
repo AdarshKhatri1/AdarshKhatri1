@@ -48,7 +48,7 @@ Tech enthusiast who love to build apps that are interesting and useful and a pas
     
 <!--     <a style="padding:10px;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png" alt="javascript" width="50" height="50"/> </a> -->
 <!--     <a style="padding:10px;" href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/> </a> -->
-     </p>
+<!--      </p> -->
 <br>
 <br>
 
