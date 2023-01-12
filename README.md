@@ -49,7 +49,7 @@ Tech enthusiast who love to build apps that are interesting and useful and a pas
  
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/file/d/1FiPHuRpkvoMB1mxA9Oq-DnEFfmlThniq/view?usp=sharing" alt="html5" width="40" height="40"/> </a>
  
- <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/file/d/1BGOb26AjR3fZwA66hsX0PFeYD81VJSSG/view?usp=sharing" alt="java" width="40" height="40"/> </a> 
+ <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/file/d/146VFdODWfRxfiIPGEPpIEKcFtEWIAfu9/view?usp=sharing" alt="java" width="40" height="40"/> </a> 
  
  
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/file/d/1xG_xVfJZF0biCBVPLwW0ghPfXReTM8_k/view?usp=sharing" alt="javascript" width="40" height="40"/> </a> 
